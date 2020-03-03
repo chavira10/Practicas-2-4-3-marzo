@@ -1,5 +1,5 @@
 .data
-var1:             .word    3
+var1:            .word    3
 puntero_var1:    .word    var1
 
 .text
